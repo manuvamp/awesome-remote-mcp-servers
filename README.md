@@ -173,6 +173,11 @@ _No entries yet_
 - **Offers:** Personal, universal memory layer that travels with you across different AI platforms. Store and retrieve memories, create a persistent knowledge base
 - **Access:** Get your unique MCP URL (keep secret) on the website
 
+#### [ORANO Personal Context MCP](https://oranoai.com)
+
+- **Offers:** Hosted MCP server for ORANO: lets Claude, ChatGPT or Cursor search your saved library of Reels, videos and articles (summaries, plans, memory).
+- **Access:** Connect to `https://orano-ai-backend-1037939693300.asia-southeast1.run.app/mcp/` over Streamable HTTP with a personal API key as a Bearer token, created in the ORANO app. See the [docs](https://oranoai.com/mcp/docs) and [public docs and examples repository](https://github.com/manuvamp/orano-mcp-examples); the server is hosted and closed source.
+
 ### Marketing & CRM
 
 #### [Intercom MCP](https://www.intercom.com/blog/introducing-model-context-protocol-fin/)
